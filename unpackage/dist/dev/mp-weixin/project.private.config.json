@@ -19,5 +19,9 @@
         }
       ]
     }
+  },
+  "projectname": "vue3uni",
+  "setting": {
+    "compileHotReLoad": true
   }
 }
